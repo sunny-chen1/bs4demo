@@ -12,7 +12,7 @@
 	text-align: center;
 	line-height: 3rem;
 	}
-.left ul li:hover{
+.left ul a:hover{
 	background-color: #3c4248;
 }
 .z{
